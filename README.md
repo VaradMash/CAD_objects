@@ -1,5 +1,5 @@
 # CAD_objects
-This repository contains the files generated while learning basic CAD operations. The objects are modelled in FreeCAD software.
+This repository contains the files generated while learning basic CAD operations. 
 
 1. The screenshots of the objects are added in the respective folders.
 2. The objects are modelled using FreeCAD software.
